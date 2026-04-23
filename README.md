@@ -96,7 +96,7 @@ Key Highlights:
 Built an ETL pipeline to collect, process, and visualize stock market data.
 
 Tech Used:
-Python, PySpark, PostgreSQL, Power BI, Beautifulsoup
+Python, PySpark, PostgreSQL, Power BI, BeautifulSoup
 
 Key Highlights:
 
